@@ -9,7 +9,6 @@
 #include<string.h>
 #include<stdlib.h>
 
-#define buf 11
 #define BUF_SIZE 1024
 using namespace std;
 
